@@ -1,0 +1,101 @@
+type,date,details
+phishing,2024-03-09,Detail 1
+malware,2024-03-04,Detail 2
+denial of service,2024-03-21,Detail 3
+malware,2024-03-30,Detail 4
+denial of service,2024-03-19,Detail 5
+malware,2024-03-28,Detail 6
+ransomware,2024-03-26,Detail 7
+ransomware,2024-03-01,Detail 8
+denial of service,2024-03-14,Detail 9
+denial of service,2024-03-21,Detail 10
+phishing,2024-03-23,Detail 11
+denial of service,2024-03-21,Detail 12
+ransomware,2024-03-12,Detail 13
+malware,2024-03-23,Detail 14
+ransomware,2024-03-08,Detail 15
+ransomware,2024-03-05,Detail 16
+ransomware,2024-03-04,Detail 17
+malware,2024-03-11,Detail 18
+ransomware,2024-03-15,Detail 19
+ransomware,2024-03-15,Detail 20
+ransomware,2024-03-29,Detail 21
+phishing,2024-03-14,Detail 22
+ransomware,2024-03-14,Detail 23
+malware,2024-03-22,Detail 24
+ransomware,2024-03-11,Detail 25
+ransomware,2024-03-10,Detail 26
+ransomware,2024-03-30,Detail 27
+phishing,2024-03-19,Detail 28
+phishing,2024-03-01,Detail 29
+malware,2024-03-25,Detail 30
+malware,2024-03-15,Detail 31
+denial of service,2024-03-01,Detail 32
+ransomware,2024-03-04,Detail 33
+denial of service,2024-03-15,Detail 34
+denial of service,2024-03-28,Detail 35
+ransomware,2024-03-31,Detail 36
+malware,2024-03-07,Detail 37
+denial of service,2024-03-31,Detail 38
+malware,2024-03-24,Detail 39
+ransomware,2024-03-27,Detail 40
+phishing,2024-03-15,Detail 41
+phishing,2024-03-03,Detail 42
+phishing,2024-03-12,Detail 43
+ransomware,2024-03-07,Detail 44
+ransomware,2024-03-05,Detail 45
+ransomware,2024-03-25,Detail 46
+ransomware,2024-03-01,Detail 47
+denial of service,2024-03-10,Detail 48
+denial of service,2024-03-28,Detail 49
+denial of service,2024-03-28,Detail 50
+phishing,2024-03-31,Detail 51
+phishing,2024-03-31,Detail 52
+phishing,2024-03-24,Detail 53
+ransomware,2024-03-15,Detail 54
+denial of service,2024-03-30,Detail 55
+ransomware,2024-03-11,Detail 56
+ransomware,2024-03-25,Detail 57
+ransomware,2024-03-23,Detail 58
+denial of service,2024-03-17,Detail 59
+denial of service,2024-03-13,Detail 60
+ransomware,2024-03-08,Detail 61
+phishing,2024-03-11,Detail 62
+malware,2024-03-26,Detail 63
+denial of service,2024-03-05,Detail 64
+denial of service,2024-03-20,Detail 65
+denial of service,2024-03-31,Detail 66
+phishing,2024-03-23,Detail 67
+denial of service,2024-03-18,Detail 68
+ransomware,2024-03-31,Detail 69
+ransomware,2024-03-06,Detail 70
+phishing,2024-03-12,Detail 71
+phishing,2024-03-31,Detail 72
+malware,2024-03-28,Detail 73
+malware,2024-03-31,Detail 74
+ransomware,2024-03-30,Detail 75
+ransomware,2024-03-23,Detail 76
+malware,2024-03-05,Detail 77
+ransomware,2024-03-29,Detail 78
+denial of service,2024-03-14,Detail 79
+ransomware,2024-03-05,Detail 80
+phishing,2024-03-24,Detail 81
+phishing,2024-03-01,Detail 82
+ransomware,2024-03-30,Detail 83
+malware,2024-03-05,Detail 84
+malware,2024-03-15,Detail 85
+malware,2024-03-29,Detail 86
+ransomware,2024-03-06,Detail 87
+malware,2024-03-24,Detail 88
+malware,2024-03-26,Detail 89
+malware,2024-03-28,Detail 90
+malware,2024-03-21,Detail 91
+phishing,2024-03-15,Detail 92
+ransomware,2024-03-28,Detail 93
+phishing,2024-03-28,Detail 94
+ransomware,2024-03-04,Detail 95
+phishing,2024-03-23,Detail 96
+malware,2024-03-15,Detail 97
+denial of service,2024-03-04,Detail 98
+ransomware,2024-03-17,Detail 99
+ransomware,2024-03-11,Detail 100
