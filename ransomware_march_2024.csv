@@ -1,0 +1,9 @@
+type,date,details
+ransomware,2024-03-01,Attaque sur serveur A
+phishing,2024-03-05,Email frauduleux
+ransomware,2024-03-15,Attaque via RDP
+ddos,2024-02-28,Inondation de requêtes
+ransomware,2024-03-20,Chiffrement de données
+malware,2024-03-25,Injection de code malveillant
+ransomware,2024-04-01,Attaque hors période
+phishing,2024-03-30,Campagne d'hameçonnage
